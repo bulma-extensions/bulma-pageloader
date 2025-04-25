@@ -6,4 +6,4 @@ To get the page-loader displayed, add `is-active` class to the pageloader elemen
 
 Documentation & Demo
 ---
-You can find the Documentation and a demo [here](https://wikiki.github.io/elements/pageloader/)
+Currently being rehomed.
